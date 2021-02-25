@@ -1,0 +1,20 @@
+.tchin-background {
+  background: url('http://courses.ics.hawaii.edu/ics314s21/morea/ui-frameworks/wod-tchin-tchin-background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  padding-top: 20px;
+  height: 1000px;
+}
+
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  background: none;
+}
+
+.address {
+  color: white;
+}
+
+.ui.card {
+  padding: 15px;
+}
